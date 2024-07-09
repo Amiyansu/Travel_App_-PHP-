@@ -1,4 +1,3 @@
-# Travel_App-PHP-
 # Travel Booking Website
 
 ## Description
@@ -25,7 +24,7 @@ This project is a simple travel booking website developed using PHP, MySQL, and 
 
 1. Clone the repository:
    ```bash
-  https://github.com/Amiyansu/Travel_App_-PHP-.git
+   git clone https://github.com/Amiyansu/Travel_App_-PHP-.git
 2.Navigate to the project directory:
 
 bash
@@ -48,31 +47,13 @@ Start your local server and navigate to the project directory in your browser:
 
 http
 Copy code
-http://localhost/your-repo-name
+http://localhost/Travel_App_-PHP-
 Usage
 Navigate to the book.php page to access the booking form.
 Fill in the required details and submit the form.
 The entered data will be saved in the MySQL database.
-Folder Structure
-css
-Copy code
-your-repo-name/
-│
-├── css/
-│   └── style.css
-│
-├── images/
-│   └── header-img-3.jpg
-│
-├── js/
-│   └── script.js
-│
-├── book.php
-├── book_form.php
-├── home.php
-├── about.php
-├── package.php
-└── README.md
+
+
 Contributing
 Feel free to contribute to this project by creating pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
@@ -97,3 +78,25 @@ Copy code
 
 By following this structure, anyone who visits your GitHub repository should have a clear und
 
+Folder Structure
+css
+Copy code
+```bash
+
+git clone your-repo-name/
+│
+├── css/
+│   └── style.css
+│
+├── images/
+│   └── header-img-3.jpg
+│
+├── js/
+│   └── script.js
+│
+├── book.php
+├── book_form.php
+├── home.php
+├── about.php
+├── package.php
+└── README.md
