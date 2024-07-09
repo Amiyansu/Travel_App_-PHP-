@@ -4,6 +4,9 @@
 
 This project is a simple travel booking website developed using PHP, MySQL, and JavaScript. The website allows users to submit their travel booking details through a registration form, and these details are stored in a MySQL database hosted on a local server.
 
+![Screenshot of the travel website](images/img-12.jpg)
+
+
 ## Features
 
 - Home page with navigation to different sections
